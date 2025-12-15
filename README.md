@@ -11,7 +11,7 @@
 I am a third-year Electronics and Telecommunications Engineering student with a deep passion for Artificial Intelligence and Computer Vision. I am focused on researching and developing high-performance AI solutions, particularly in:
 - 🧠 Optimizing Deep Learning models (through techniques like quantization and pruning) to achieve maximum performance.
 - 💡 Deploying AI algorithms on embedded devices (Edge AI / AI on Edge).
-- 🚗 My long-term goal is to conduct in-depth research in AI for Self-Driving Cars and to pursue a Master's degree in South Korea.
+- 🚗 My long-term goal is to conduct in-depth research in Computer Vision, Vision Language Model and Model Optimization Technique.
 
 ---
 
