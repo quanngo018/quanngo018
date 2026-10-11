@@ -8,8 +8,8 @@
 
 ### 👨‍💻 About Me
 
-I am a third-year Electronics and Telecommunications Engineering student with a deep passion for Artificial Intelligence and Computer Vision. I am focused on researching and developing high-performance AI solutions, particularly in:
-- 🧠 Optimizing Deep Learning models (through techniques like quantization and pruning) to achieve maximum performance.
+I am a final-year Electronics and Telecommunications Engineering student with a deep passion for Artificial Intelligence and Computer Vision. I am focused on researching and developing high-performance AI solutions, particularly in:
+- 🧠 Optimizing Deep Learning models (Knowledge Distillation, Pruning, Quantization) to achieve maximum performance.
 - 💡 Deploying AI algorithms on embedded devices (Jetson Orin AGX, Jetson Orin Nano).
 - 🚗 My long-term goal is to conduct in-depth research in Computer Vision, Vision Language Model and Model Optimization Technique and create practical applications.
 
@@ -47,7 +47,7 @@ I am a third-year Electronics and Telecommunications Engineering student with a 
 
 -   **Primary Focus:** I am currently focusing on optimization techniques for the **YOLO** family of models to improve speed and efficiency on resource-constrained devices.
 -   **Hands-on Project:** I am part of a team building a **multi-camera security surveillance system for a bank**. My responsibilities include:
-    -   Optimizing the detection model (quantization, pruning).
+    -   Optimizing the detection model (Knowledge Distillation).
     -   Optimizing trackers for Multi Object Tracking
     -   Designing and optimizing the video processing pipeline.
     -   Developing the business logic for the security application.
