@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ngo Anh Quan
 
-### Third-Year University Student | Aspiring AI/Computer Vision Engineer
+### Final University Student | Aspiring AI/Computer Vision Researcher
 
 <a href="https://www.linkedin.com/in/quan-ngo-a60637336/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
 
